@@ -1,12 +1,12 @@
-# My first http server in Go
+#My first http server in Go
 
 This my first http server created in the Go language
 
 To be able to use it you need to have previously installed:
 
-[1] the Goland programming language
-[2] then git clone or download it.
-[3] Open a console or terminal of your operating system and run the following script
+[1]The Goland programming language
+[2]Then git clone or download it.
+[3]Open a console or terminal of your operating system and run the following script
     go build wiki.go
     go run wiki.go
 
